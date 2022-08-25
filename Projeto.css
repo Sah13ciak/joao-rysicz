@@ -1,0 +1,32 @@
+body {
+	background: #E0FFFF;}
+
+#capa {
+	height: 5%;
+	width: 98%;
+	padding: 10px;
+	margin-left: 1px;
+	border: solid #000000;
+}
+
+h1 {
+		font-size: 70px;
+		text-align: center;
+}
+
+p { 
+	text-align: left;
+}
+
+#cuidados { 
+	font-size: 30px;
+	text-align: center; 
+	color: #FF1493;
+	background: #FFEFD5;
+	border: 10px double; #000000; 
+	padding: 10px;
+}
+
+.itens { 
+	font-style: italic;
+}
