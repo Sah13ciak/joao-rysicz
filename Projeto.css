@@ -1,17 +1,18 @@
 body {
 	background: #E0FFFF;}
 
+h1 {
+		font-size: 70px;
+		text-align: center;
+		color: #00F118;
+}
+
 #capa {
 	height: 5%;
 	width: 98%;
 	padding: 10px;
 	margin-left: 1px;
 	border: solid #000000;
-}
-
-h1 {
-		font-size: 70px;
-		text-align: center;
 }
 
 p { 
